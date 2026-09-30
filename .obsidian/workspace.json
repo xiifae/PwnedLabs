@@ -11,14 +11,10 @@
             "id": "dbfd09c20c8322ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,13 +184,25 @@
   },
   "active": "dbfd09c20c8322ef",
   "lastOpenFiles": [
-    "Pasted image 20260930165310.png",
-    "Pasted image 20260930165037.png",
-    "Pasted image 20260930164714.png",
-    "Pasted image 20260930164036.png",
-    "Pasted image 20260930164001.png",
+    "Loot Exchange, Teams and SharePoint with GraphRunner/Notes.md",
+    "Azure/Loot Exchange, Teams and SharePoint with GraphRunner/Notes.md",
+    "Azure/Loot Exchange, Teams and SharePoint with GraphRunner",
+    "Gain Initial Access via Social Engineering/Notes.md",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930171053.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930170938.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930170645.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930170526.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930165310.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930165037.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930164714.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930164036.png",
+    "Azure/Gain Initial Access via Social Engineering/Pasted image 20260930164001.png",
+    "Azure/Gain Initial Access via Social Engineering/Notes.md",
+    "Azure/Gain Initial Access via Social Engineering",
+    "Azure",
+    "Loot Exchange, Teams and SharePoint with GraphRunner",
+    "Gain Initial Access via Social Engineering/Pasted image 20260930171053.png",
     "Untitled/Untitled.md",
-    "Notes.md",
     "Gain Initial Access via Social Engineering"
   ]
 }
